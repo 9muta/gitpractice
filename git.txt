@@ -2,3 +2,4 @@ gitのテスト用です
 行を追加しました！
 /git add
 /git status
+複数ファイルのcommit
