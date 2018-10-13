@@ -3,3 +3,4 @@ gitのテスト用です
 /git add
 /git status
 複数ファイルのcommit
+/git status222
