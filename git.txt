@@ -4,3 +4,4 @@ gitのテスト用です
 /git status
 複数ファイルのcommit
 /git status222
+/git diff
