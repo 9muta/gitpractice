@@ -5,3 +5,5 @@ gitのテスト用です
 複数ファイルのcommit
 /git status222
 /git diff
+テスト行追加
+add col
